@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2015-2020
+  institution:
+    name: Fontys Hogescholen
+    url: "https://fontys.nl/"
+  extracurricularActivities: #(optional)
+  - Student assistent
+
+- name: Minor in Leaderhip Skills
+  icon: fa-graduation-cap
+  timeframe: 2018-2019
+  institution:
+    name: Fontys Hogescholen
+    url: "https://fontys.nl/"

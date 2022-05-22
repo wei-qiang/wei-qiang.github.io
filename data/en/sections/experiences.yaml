@@ -1,0 +1,44 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: iO
+    url: "https://www.iodigital.com"
+    location: Eindhoven
+    # company overview
+    overview: iO is an end-to-end agency designing and executing solutions for strategic, creative, digital & marketing needs.
+  positions:
+  - designation: Software Developer
+    start: Feb 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Developing various application for webshops and e-finance projects.
+
+- company:
+    name: ISAAC
+    url: "https://www.isaac.nl"
+    location: Eindhoven
+    overview: "We turn .complexity into profitability | 100+ professionals | #1 Fullservice Digital Agency Emerce100 2018, 2019 & 2020"
+  positions:
+  - designation: Software Developer
+    start: Feb 2020
+    end: Feb 2022
+    responsibilities:
+    - Developing various application for webshops and e-finance projects.
+  
+  - designation: Intern Software Developer
+    start: Sep 2019
+    end: Jan 2020
+    responsibilities:
+    - Researching the possibilities of serverless applications on an on-premise Kubernetes environment.

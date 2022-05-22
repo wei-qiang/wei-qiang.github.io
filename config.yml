@@ -1,0 +1,50 @@
+baseURL: https://hugo-toha.github.io
+
+languageCode: en-us
+title: "Wei-Qiang's Portfolio"
+theme: "toha"
+
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+# Control TOC depth
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Enable global emoji support
+enableEmoji: true
+
+# Site parameters
+params:
+  # GitHub repo URL and branch of your site
+  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitBranch: main
+
+  # specify whether you want to write some blog posts or not
+  enableBlogPost: false
+
+  # specify whether you want to show Table of Contents in reading page
+  enableTOC: false
+
+  #background: "images/<your background image name(with file extension)>"
+
+  newsletter:
+    enable: false
+  
+  footer:
+    enable: false
