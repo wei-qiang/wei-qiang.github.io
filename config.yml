@@ -48,3 +48,6 @@ params:
   
   footer:
     enable: false
+  
+  logo:
+    favicon: "images/favicon.png"
