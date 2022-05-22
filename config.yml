@@ -41,7 +41,7 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: false
 
-  #background: "images/<your background image name(with file extension)>"
+  background: "images/background.jpg"
 
   newsletter:
     enable: false
