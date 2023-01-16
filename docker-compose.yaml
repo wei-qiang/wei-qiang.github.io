@@ -1,6 +1,6 @@
 services:
     hugo:
-        image: klakegg/hugo:0.93.2
+        image: klakegg/hugo:0.101.0
         volumes:
         - ".:/src"
         command: server

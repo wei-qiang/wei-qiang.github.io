@@ -51,3 +51,8 @@ params:
   
   logo:
     favicon: "images/favicon.png"
+
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system

@@ -17,13 +17,22 @@ experiences:
     # company overview
     overview: iO is an end-to-end agency designing and executing solutions for strategic, creative, digital & marketing needs.
   positions:
-  - designation: Software Developer
-    start: Feb 2022
+  - designation: Senior Software Developer
+    start: Jan 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Developing various application for webshops and e-finance projects.
+
+  - designation: Software Developer
+    start: Feb 2022
+    end: Jan 2023
+    responsibilities:
+    - Brussels Airport - Built the processing layer for the sales of their "Enjoy! Gold" products. This included not only the sales processing but also the redeeming of the sold tickets, ensuring a smooth and seamless experience for customers when they come to redeem their purchased products.
+    - Favorite Gifts - Built an integration layer between suppliers and the company's internal systems. This included merging and processing large amounts of product and printing data. Additionally, I developed a "pricing engine" for Favorite Gift's web shops to calculate pricing for custom printed products.
+    - Flowbird - Built a hosted payment page site and accompanying API which processed the payments with integration with various payment service providers. I also developed a reconciliation system to ensure all transactions were accurately recorded and reconciled with external financial systems. This included processes for data validation, error handling, and reporting to ensure accurate financial reporting.
+    - Rabobank - In this project I had the role of Senior developer and built a backend for frontend for their hosted payment page, integrating with various internal systems and ensuring a seamless user experience. I provided technical leadership and mentorship to junior developers, and collaborated with other teams to ensure the successful development of the project.
 
 - company:
     name: ISAAC
