@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Team Rockstars IT
     url: "https://www.teamrockstars.nl/"
-    location: Eindhoven
+    location: \'s-Hertogenbosch
     # company overview
     overview: Home to over 500 developers and engineers. They make the biggest impact on IT projects when they are happy. That’s why we do everything for their job happiness.
   positions:

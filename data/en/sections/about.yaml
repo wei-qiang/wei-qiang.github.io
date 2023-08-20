@@ -7,14 +7,14 @@ section:
   template: sections/about.html # allows you to point to a specific template.
 
   # your designation
-designation: Senior Software Developer
+designation: Java Software Engineer
   # your company information
 company:
-  name: iO
-  url: "https://www.https://www.iodigital.com/"
+  name: Team Rockstars IT
+  url: "https://www.teamrockstars.nl/"
 
   # a summary about you
-summary: 'I am a Senior Java software developer currently working at iO.'
+summary: 'I am a Java software engineer currently working at Team Rockstars IT.'
 
   # your social links
   # give as many as you want. use font-awesome for the icons.
