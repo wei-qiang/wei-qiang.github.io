@@ -11,17 +11,40 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Team Rockstars IT
+    url: "https://www.teamrockstars.nl/"
+    location: Eindhoven
+    # company overview
+    overview: Home to over 500 developers and engineers. They make the biggest impact on IT projects when they are happy. That’s why we do everything for their job happiness.
+  positions:
+  - designation: Software Engineer
+    start: Aug 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Working at various companies to develop the applications they want.
+    
+- company:
+    name: Alliander
+    url: "https://www.alliander.com/"
+    location: Arnhem
+    overview: Alliander develops and operates energy networks.
+  positions:
+  - designation: Software Engineer
+    start: Aug 2023
+    responsibilities:
+    - Developing an application which monitors the load of the electricity network.
+
+- company:
     name: iO
     url: "https://www.iodigital.com"
     location: Eindhoven
-    # company overview
     overview: iO is an end-to-end agency designing and executing solutions for strategic, creative, digital & marketing needs.
   positions:
   - designation: Senior Software Developer
     start: Jan 2023
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
+    end: Jun 2023
     responsibilities:
     - Developing various applications for webshops and e-finance projects.
 
